@@ -1,0 +1,2 @@
+# MCAddonCompiler
+Minecraft のアドオンのパッケージ化および最適化を行います
